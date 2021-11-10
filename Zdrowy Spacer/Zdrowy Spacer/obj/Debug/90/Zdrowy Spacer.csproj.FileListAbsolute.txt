@@ -273,3 +273,4 @@ C:\Users\kamil\source\repos\Rep_ZS\Zdrowy Spacer\Zdrowy Spacer\obj\Debug\90\stam
 C:\Users\kamil\source\repos\Rep_ZS\Zdrowy Spacer\Zdrowy Spacer\obj\Debug\90\stamp\_GenerateJavaStubs.stamp
 C:\Users\kamil\source\repos\Rep_ZS\Zdrowy Spacer\Zdrowy Spacer\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\kamil\source\repos\Rep_ZS\Zdrowy Spacer\Zdrowy Spacer\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\kamil\source\repos\Rep_ZS\Zdrowy Spacer\Zdrowy Spacer\obj\Debug\90\res\drawable-v21\ic_menu_mapmode.xml

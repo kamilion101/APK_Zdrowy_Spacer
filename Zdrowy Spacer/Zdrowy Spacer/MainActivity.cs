@@ -75,30 +75,30 @@ namespace Zdrowy_Spacer
         {
             int id = item.ItemId;
 
-            if (id == Resource.Id.nav_camera)
+            if (id == Resource.Id.nav_mapmode)
             {
                 // Handle the camera action
+            }
+            else if (id == Resource.Id.nav_recent_history)
+            {
+
             }
             else if (id == Resource.Id.nav_gallery)
             {
 
             }
-            else if (id == Resource.Id.nav_slideshow)
+            else if (id == Resource.Id.nav_sort_by_size)
             {
 
             }
-            else if (id == Resource.Id.nav_manage)
-            {
+            //else if (id == Resource.Id.nav_share)
+            //{
 
-            }
-            else if (id == Resource.Id.nav_share)
-            {
+            //}
+            //else if (id == Resource.Id.nav_send)
+            //{
 
-            }
-            else if (id == Resource.Id.nav_send)
-            {
-
-            }
+            //}
 
             DrawerLayout drawer = FindViewById<DrawerLayout>(Resource.Id.drawer_layout);
             drawer.CloseDrawer(GravityCompat.Start);
