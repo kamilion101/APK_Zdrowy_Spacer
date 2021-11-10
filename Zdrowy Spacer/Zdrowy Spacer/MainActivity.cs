@@ -77,7 +77,7 @@ namespace Zdrowy_Spacer
 
             if (id == Resource.Id.nav_mapmode)
             {
-                // Handle the camera action
+                //miejsce na instrukcje
             }
             else if (id == Resource.Id.nav_recent_history)
             {
@@ -91,6 +91,7 @@ namespace Zdrowy_Spacer
             {
 
             }
+
             //else if (id == Resource.Id.nav_share)
             //{
 

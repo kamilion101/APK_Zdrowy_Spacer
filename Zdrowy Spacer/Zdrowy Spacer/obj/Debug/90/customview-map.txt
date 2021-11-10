@@ -33,6 +33,7 @@ menu;obj\Debug\90\res\menu\menu_main.xml
 path;obj\Debug\90\res\drawable-v21\ic_menu_camera.xml
 path;obj\Debug\90\res\drawable-v21\ic_menu_gallery.xml
 path;obj\Debug\90\res\drawable-v21\ic_menu_manage.xml
+path;obj\Debug\90\res\drawable-v21\ic_menu_mapmode.xml
 path;obj\Debug\90\res\drawable-v21\ic_menu_send.xml
 path;obj\Debug\90\res\drawable-v21\ic_menu_share.xml
 path;obj\Debug\90\res\drawable-v21\ic_menu_slideshow.xml
@@ -55,6 +56,7 @@ TextView;obj\Debug\90\res\layout\nav_header_main.xml
 vector;obj\Debug\90\res\drawable-v21\ic_menu_camera.xml
 vector;obj\Debug\90\res\drawable-v21\ic_menu_gallery.xml
 vector;obj\Debug\90\res\drawable-v21\ic_menu_manage.xml
+vector;obj\Debug\90\res\drawable-v21\ic_menu_mapmode.xml
 vector;obj\Debug\90\res\drawable-v21\ic_menu_send.xml
 vector;obj\Debug\90\res\drawable-v21\ic_menu_share.xml
 vector;obj\Debug\90\res\drawable-v21\ic_menu_slideshow.xml
