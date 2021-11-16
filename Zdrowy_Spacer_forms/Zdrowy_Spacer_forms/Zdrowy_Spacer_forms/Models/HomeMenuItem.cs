@@ -7,7 +7,9 @@ namespace Zdrowy_Spacer_forms.Models
     public enum MenuItemType
     {
         Browse,
-        About
+        About,
+        Zdjęcia,
+        Wybierz_normę
     }
     public class HomeMenuItem
     {
