@@ -475,3 +475,8 @@ C:\Users\kamil\source\repos\Rep_ZS\ZdrowySpacer\ZdrowySpacer\ZdrowySpacer.Androi
 C:\Users\kamil\source\repos\Rep_ZS\ZdrowySpacer\ZdrowySpacer\ZdrowySpacer.Android\obj\Debug\90\stamp\_GenerateJavaStubs.stamp
 C:\Users\kamil\source\repos\Rep_ZS\ZdrowySpacer\ZdrowySpacer\ZdrowySpacer.Android\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\kamil\source\repos\Rep_ZS\ZdrowySpacer\ZdrowySpacer\ZdrowySpacer.Android\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\kamil\source\repos\Rep_ZS\ZdrowySpacer\ZdrowySpacer\ZdrowySpacer.Android\obj\Debug\90\res\drawable\ic_wyniki.png
+C:\Users\kamil\source\repos\Rep_ZS\ZdrowySpacer\ZdrowySpacer\ZdrowySpacer.Android\obj\Debug\90\res\drawable\ic_zdjecia.png
+C:\Users\kamil\source\repos\Rep_ZS\ZdrowySpacer\ZdrowySpacer\ZdrowySpacer.Android\obj\Debug\90\res\drawable\ic_mapa.png
+C:\Users\kamil\source\repos\Rep_ZS\ZdrowySpacer\ZdrowySpacer\ZdrowySpacer.Android\obj\Debug\90\res\drawable\ic_strona_glowna.png
+C:\Users\kamil\source\repos\Rep_ZS\ZdrowySpacer\ZdrowySpacer\ZdrowySpacer.Android\obj\Debug\90\res\drawable\ic_wybierz_norme.png

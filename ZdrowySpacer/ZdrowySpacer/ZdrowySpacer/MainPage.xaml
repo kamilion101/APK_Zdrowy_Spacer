@@ -10,31 +10,31 @@
     <FlyoutItem Title="MyTabAPP"
                 Shell.TabBarIsVisible="False"
                 FlyoutDisplayOptions="AsMultipleItems">
-        <ShellContent Title="Strona główna" ContentTemplate="{DataTemplate local:Strona_glowna}"/>
+        <ShellContent Title="Strona główna" Icon="ic_strona_glowna" ContentTemplate="{DataTemplate local:Strona_glowna}"/>
     </FlyoutItem>
 
     <FlyoutItem Title="MyTabAPP"
                 Shell.TabBarIsVisible="False"
                 FlyoutDisplayOptions="AsMultipleItems">
-        <ShellContent Title="Mapa" ContentTemplate="{DataTemplate local:Mapa}"/>
+        <ShellContent Title="Mapa" Icon="ic_mapa" ContentTemplate="{DataTemplate local:Mapa}"/>
     </FlyoutItem>
 
     <FlyoutItem Title="MyTabAPP"
                 Shell.TabBarIsVisible="False"
                 FlyoutDisplayOptions="AsMultipleItems">
-        <ShellContent Title="Wyniki" ContentTemplate="{DataTemplate local:Wyniki}"/>
+        <ShellContent Title="Wyniki" Icon="ic_wyniki" ContentTemplate="{DataTemplate local:Wyniki}"/>
     </FlyoutItem>
 
     <FlyoutItem Title="MyTabAPP"
                 Shell.TabBarIsVisible="False"
                 FlyoutDisplayOptions="AsMultipleItems">
-        <ShellContent Title="Zdjęcia" ContentTemplate="{DataTemplate local:Zdjecia}"/>
+        <ShellContent Title="Zdjęcia" Icon="ic_zdjecia" ContentTemplate="{DataTemplate local:Zdjecia}"/>
     </FlyoutItem>
 
     <FlyoutItem Title="MyTabAPP"
                 Shell.TabBarIsVisible="False"
                 FlyoutDisplayOptions="AsMultipleItems">
-        <ShellContent Title="Wybierz normę" ContentTemplate="{DataTemplate local:Wybierz_norme}"/>
+        <ShellContent Title="Wybierz normę" Icon="ic_wybierz_norme" ContentTemplate="{DataTemplate local:Wybierz_norme}"/>
     </FlyoutItem>
 
 </Shell>
