@@ -800,12 +800,25 @@
           "build/Xamarin.Forms.targets": {}
         }
       },
+      "Xamarin.Forms.InputKit/3.7.2": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "Java.Interop"
+        ],
+        "compile": {
+          "lib/monoandroid90/Plugin.InputKit.dll": {}
+        },
+        "runtime": {
+          "lib/monoandroid90/Plugin.InputKit.dll": {}
+        }
+      },
       "ZdrowySpacer/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
           "Xamarin.Essentials": "1.3.1",
-          "Xamarin.Forms": "4.4.0.991265"
+          "Xamarin.Forms": "4.4.0.991265",
+          "Xamarin.Forms.InputKit": "3.7.2"
         },
         "compile": {
           "bin/placeholder/ZdrowySpacer.dll": {}
@@ -1920,6 +1933,33 @@
         "xamarin.forms.nuspec"
       ]
     },
+    "Xamarin.Forms.InputKit/3.7.2": {
+      "sha512": "RVjq8yqh/+MQ/pSLBHEfVqeqOtjJV9H3htHM0U3K0omD/RNeHJZLKDQAgDAgzQan6m5DBkrGoIqOtacTNRGueg==",
+      "type": "package",
+      "path": "xamarin.forms.inputkit/3.7.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "icon.png",
+        "lib/monoandroid10.0/Plugin.InputKit.dll",
+        "lib/monoandroid10.0/Plugin.InputKit.xml",
+        "lib/monoandroid11.0/Plugin.InputKit.dll",
+        "lib/monoandroid11.0/Plugin.InputKit.xml",
+        "lib/monoandroid90/Plugin.InputKit.dll",
+        "lib/monoandroid90/Plugin.InputKit.xml",
+        "lib/netstandard1.0/Plugin.InputKit.dll",
+        "lib/netstandard1.0/Plugin.InputKit.xml",
+        "lib/netstandard2.0/Plugin.InputKit.dll",
+        "lib/netstandard2.0/Plugin.InputKit.xml",
+        "lib/uap10.0.19041/Plugin.InputKit.dll",
+        "lib/uap10.0.19041/Plugin.InputKit.pri",
+        "lib/uap10.0.19041/Plugin.InputKit.xml",
+        "lib/xamarinios10/Plugin.InputKit.dll",
+        "lib/xamarinios10/Plugin.InputKit.xml",
+        "xamarin.forms.inputkit.3.7.2.nupkg.sha512",
+        "xamarin.forms.inputkit.nuspec"
+      ]
+    },
     "ZdrowySpacer/1.0.0": {
       "type": "project",
       "path": "../ZdrowySpacer/ZdrowySpacer.csproj",
@@ -1930,6 +1970,7 @@
     "MonoAndroid,Version=v9.0": [
       "Xamarin.Essentials >= 1.3.1",
       "Xamarin.Forms >= 4.4.0.991265",
+      "Xamarin.Forms.InputKit >= 3.7.2",
       "ZdrowySpacer >= 1.0.0"
     ]
   },
@@ -1982,6 +2023,10 @@
           "Xamarin.Forms": {
             "target": "Package",
             "version": "[4.4.0.991265, )"
+          },
+          "Xamarin.Forms.InputKit": {
+            "target": "Package",
+            "version": "[3.7.2, )"
           }
         }
       }

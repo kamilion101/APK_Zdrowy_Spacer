@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "IVi9PiWlHw+S/6M4jeKyhJr3SdGlLWQ7SwCuhWb2FX11zw41J4pJtIGG7DAn2p9oc8r2uAJkWQOQc3OzLOANew==",
+  "dgSpecHash": "Td6jtKBo/Ph+pWU9AqJ5kD86IwOce1AeV4vH5QqpWJBnNsALNq4wi6ip2qwwzpuLkSufJCO+VMmunWQha/Fufw==",
   "success": true,
   "projectFilePath": "C:\\Users\\kamil\\source\\repos\\Rep_ZS\\ZdrowySpacer\\ZdrowySpacer\\ZdrowySpacer\\ZdrowySpacer.csproj",
   "expectedPackageFiles": [
@@ -8,7 +8,8 @@
     "C:\\Users\\kamil\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
     "C:\\Users\\kamil\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
-    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.4.0.991265\\xamarin.forms.4.4.0.991265.nupkg.sha512"
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.4.0.991265\\xamarin.forms.4.4.0.991265.nupkg.sha512",
+    "C:\\Users\\kamil\\.nuget\\packages\\xamarin.forms.inputkit\\3.7.2\\xamarin.forms.inputkit.3.7.2.nupkg.sha512"
   ],
   "logs": []
 }

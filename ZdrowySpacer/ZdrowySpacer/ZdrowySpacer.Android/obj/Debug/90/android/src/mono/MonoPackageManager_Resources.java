@@ -4,6 +4,7 @@ public class MonoPackageManager_Resources {
 		/* We need to ensure that "ZdrowySpacer.Android.dll" comes first in this list. */
 		"ZdrowySpacer.Android.dll",
 		"FormsViewGroup.dll",
+		"Plugin.InputKit.dll",
 		"Xamarin.Android.Arch.Core.Common.dll",
 		"Xamarin.Android.Arch.Core.Runtime.dll",
 		"Xamarin.Android.Arch.Lifecycle.Common.dll",

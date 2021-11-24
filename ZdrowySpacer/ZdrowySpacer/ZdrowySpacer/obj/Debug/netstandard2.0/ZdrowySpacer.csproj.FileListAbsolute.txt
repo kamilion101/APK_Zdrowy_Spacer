@@ -10,10 +10,10 @@ C:\Users\kamil\source\repos\Rep_ZS\ZdrowySpacer\ZdrowySpacer\ZdrowySpacer\obj\De
 C:\Users\kamil\source\repos\Rep_ZS\ZdrowySpacer\ZdrowySpacer\ZdrowySpacer\obj\Debug\netstandard2.0\Wybierz_norme.xaml.g.cs
 C:\Users\kamil\source\repos\Rep_ZS\ZdrowySpacer\ZdrowySpacer\ZdrowySpacer\obj\Debug\netstandard2.0\Wyniki.xaml.g.cs
 C:\Users\kamil\source\repos\Rep_ZS\ZdrowySpacer\ZdrowySpacer\ZdrowySpacer\obj\Debug\netstandard2.0\Zdjecia.xaml.g.cs
-C:\Users\kamil\source\repos\Rep_ZS\ZdrowySpacer\ZdrowySpacer\ZdrowySpacer\obj\Debug\netstandard2.0\ZdrowySpacer.csproj.CoreCompileInputs.cache
 C:\Users\kamil\source\repos\Rep_ZS\ZdrowySpacer\ZdrowySpacer\ZdrowySpacer\obj\Debug\netstandard2.0\ZdrowySpacer.AssemblyInfoInputs.cache
 C:\Users\kamil\source\repos\Rep_ZS\ZdrowySpacer\ZdrowySpacer\ZdrowySpacer\obj\Debug\netstandard2.0\ZdrowySpacer.AssemblyInfo.cs
-C:\Users\kamil\source\repos\Rep_ZS\ZdrowySpacer\ZdrowySpacer\ZdrowySpacer\obj\Debug\netstandard2.0\XamlC.stamp
 C:\Users\kamil\source\repos\Rep_ZS\ZdrowySpacer\ZdrowySpacer\ZdrowySpacer\obj\Debug\netstandard2.0\ZdrowySpacer.dll
 C:\Users\kamil\source\repos\Rep_ZS\ZdrowySpacer\ZdrowySpacer\ZdrowySpacer\obj\Debug\netstandard2.0\ref\ZdrowySpacer.dll
 C:\Users\kamil\source\repos\Rep_ZS\ZdrowySpacer\ZdrowySpacer\ZdrowySpacer\obj\Debug\netstandard2.0\ZdrowySpacer.pdb
+C:\Users\kamil\source\repos\Rep_ZS\ZdrowySpacer\ZdrowySpacer\ZdrowySpacer\obj\Debug\netstandard2.0\ZdrowySpacer.csproj.CoreCompileInputs.cache
+C:\Users\kamil\source\repos\Rep_ZS\ZdrowySpacer\ZdrowySpacer\ZdrowySpacer\obj\Debug\netstandard2.0\XamlC.stamp
