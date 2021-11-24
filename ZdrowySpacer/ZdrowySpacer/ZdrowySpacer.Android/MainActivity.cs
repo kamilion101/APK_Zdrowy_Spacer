@@ -33,7 +33,7 @@ namespace ZdrowySpacer.Droid
         }
         public override void OnRequestPermissionsResult(int requestCode, string[] permissions, [GeneratedEnum] Android.Content.PM.Permission[] grantResults)
         {
-            {
+            
 
             if (requestCode == RequestLocationID)
                 {
@@ -46,10 +46,7 @@ namespace ZdrowySpacer.Droid
                         //Permissions denied - display a message.
                     }
                 }
-            Xamarin.Essentials.Platform.OnRequestPermissionsResult(requestCode, permissions, grantResults);
-
-            base.OnRequestPermissionsResult(requestCode, permissions, grantResults);
-        }
+         
             Xamarin.Essentials.Platform.OnRequestPermissionsResult(requestCode, permissions, grantResults);
 
             base.OnRequestPermissionsResult(requestCode, permissions, grantResults);
