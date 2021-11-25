@@ -113,6 +113,10 @@
             "Xamarin.Forms.InputKit": {
               "target": "Package",
               "version": "[3.7.2, )"
+            },
+            "Xamarin.Forms.Maps": {
+              "target": "Package",
+              "version": "[4.4.0.991265, )"
             }
           },
           "imports": [

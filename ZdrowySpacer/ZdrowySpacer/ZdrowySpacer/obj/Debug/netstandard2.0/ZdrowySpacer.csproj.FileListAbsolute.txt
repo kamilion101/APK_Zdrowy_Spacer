@@ -2,7 +2,6 @@ C:\Users\kamil\source\repos\Rep_ZS\ZdrowySpacer\ZdrowySpacer\ZdrowySpacer\bin\De
 C:\Users\kamil\source\repos\Rep_ZS\ZdrowySpacer\ZdrowySpacer\ZdrowySpacer\bin\Debug\netstandard2.0\ZdrowySpacer.dll
 C:\Users\kamil\source\repos\Rep_ZS\ZdrowySpacer\ZdrowySpacer\ZdrowySpacer\bin\Debug\netstandard2.0\ref\ZdrowySpacer.dll
 C:\Users\kamil\source\repos\Rep_ZS\ZdrowySpacer\ZdrowySpacer\ZdrowySpacer\bin\Debug\netstandard2.0\ZdrowySpacer.pdb
-C:\Users\kamil\source\repos\Rep_ZS\ZdrowySpacer\ZdrowySpacer\ZdrowySpacer\obj\Debug\netstandard2.0\ZdrowySpacer.csprojAssemblyReference.cache
 C:\Users\kamil\source\repos\Rep_ZS\ZdrowySpacer\ZdrowySpacer\ZdrowySpacer\obj\Debug\netstandard2.0\App.xaml.g.cs
 C:\Users\kamil\source\repos\Rep_ZS\ZdrowySpacer\ZdrowySpacer\ZdrowySpacer\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
 C:\Users\kamil\source\repos\Rep_ZS\ZdrowySpacer\ZdrowySpacer\ZdrowySpacer\obj\Debug\netstandard2.0\Mapa.xaml.g.cs
