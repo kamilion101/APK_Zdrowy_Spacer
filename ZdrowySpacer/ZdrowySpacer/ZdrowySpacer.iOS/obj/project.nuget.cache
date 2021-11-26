@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "oP46eSLlHc9oOuywBeVEitoIjYbRcmRqeyL9drK11EJe7lynoQ8+IJFFpSSH3z9kleLopJbtXRwMJ3rTt3cw1A==",
+  "dgSpecHash": "uFcnpTxruHbg7hsEXBF1l26/Oa3qClMW+Vb+KzxSVpgq/ctdC96sQnGhZnOVlVDgqprMeehC4jQV59RikLyJbQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\kamil\\source\\repos\\Rep_ZS\\ZdrowySpacer\\ZdrowySpacer\\ZdrowySpacer.iOS\\ZdrowySpacer.iOS.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\kamil\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
-    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Users\\kamil\\.nuget\\packages\\xam.plugin.media\\5.0.1\\xam.plugin.media.5.0.1.nupkg.sha512",
+    "C:\\Users\\kamil\\.nuget\\packages\\xamarin.essentials\\1.5.2\\xamarin.essentials.1.5.2.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.4.0.991265\\xamarin.forms.4.4.0.991265.nupkg.sha512",
     "C:\\Users\\kamil\\.nuget\\packages\\xamarin.forms.inputkit\\3.7.2\\xamarin.forms.inputkit.3.7.2.nupkg.sha512",
     "C:\\Users\\kamil\\.nuget\\packages\\xamarin.forms.maps\\4.4.0.991265\\xamarin.forms.maps.4.4.0.991265.nupkg.sha512"

@@ -7,6 +7,7 @@ using Android.Views;
 using Android.Widget;
 using Android.OS;
 using Android;
+using Plugin.Media;
 
 namespace ZdrowySpacer.Droid
 {
@@ -14,8 +15,7 @@ namespace ZdrowySpacer.Droid
     public class MainActivity : global::Xamarin.Forms.Platform.Android.FormsAppCompatActivity
     {
         const int RequestLocationID = 0;
-
-        readonly string[] LocationPermissions =
+        private readonly string[] LocationPermissions =
         {
             Manifest.Permission.AccessCoarseLocation,
             Manifest.Permission.AccessFineLocation

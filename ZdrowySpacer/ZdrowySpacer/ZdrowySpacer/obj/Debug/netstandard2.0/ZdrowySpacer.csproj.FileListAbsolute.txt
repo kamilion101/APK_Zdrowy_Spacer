@@ -16,3 +16,4 @@ C:\Users\kamil\source\repos\Rep_ZS\ZdrowySpacer\ZdrowySpacer\ZdrowySpacer\obj\De
 C:\Users\kamil\source\repos\Rep_ZS\ZdrowySpacer\ZdrowySpacer\ZdrowySpacer\obj\Debug\netstandard2.0\ZdrowySpacer.pdb
 C:\Users\kamil\source\repos\Rep_ZS\ZdrowySpacer\ZdrowySpacer\ZdrowySpacer\obj\Debug\netstandard2.0\ZdrowySpacer.csproj.CoreCompileInputs.cache
 C:\Users\kamil\source\repos\Rep_ZS\ZdrowySpacer\ZdrowySpacer\ZdrowySpacer\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\kamil\source\repos\Rep_ZS\ZdrowySpacer\ZdrowySpacer\ZdrowySpacer\obj\Debug\netstandard2.0\ZdrowySpacer.csprojAssemblyReference.cache
