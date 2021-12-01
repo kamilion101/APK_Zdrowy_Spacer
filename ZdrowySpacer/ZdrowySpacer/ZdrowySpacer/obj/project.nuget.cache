@@ -1,17 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "CryIeSLzJp811CrtoyhLq8qdgeaA3a6mZ9MIPjNUQVDRMZfxRig/0Dk7EGGRD4bvwq6RKocJpRk8Q271UcsgGg==",
+  "dgSpecHash": "W5jXDD1ML/WJjRNv9H2EDo7z8XltBaH/fvVZPIkIDWJyhNKS61Cz6Rl+DQ37ne5iQE8VnMHpTACRgv1dMQjoSw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kamil\\source\\repos\\Rep_ZS\\ZdrowySpacer\\ZdrowySpacer\\ZdrowySpacer\\ZdrowySpacer.csproj",
+  "projectFilePath": "C:\\Users\\Nicolas\\source\\repos\\spcr\\APK_Zdrowy_Spacer\\ZdrowySpacer\\ZdrowySpacer\\ZdrowySpacer\\ZdrowySpacer.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\kamil\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\kamil\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
-    "C:\\Users\\kamil\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
-    "C:\\Users\\kamil\\.nuget\\packages\\xam.plugin.media\\5.0.1\\xam.plugin.media.5.0.1.nupkg.sha512",
-    "C:\\Users\\kamil\\.nuget\\packages\\xamarin.essentials\\1.5.2\\xamarin.essentials.1.5.2.nupkg.sha512",
-    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.4.0.991265\\xamarin.forms.4.4.0.991265.nupkg.sha512",
-    "C:\\Users\\kamil\\.nuget\\packages\\xamarin.forms.inputkit\\3.7.2\\xamarin.forms.inputkit.3.7.2.nupkg.sha512",
-    "C:\\Users\\kamil\\.nuget\\packages\\xamarin.forms.maps\\4.4.0.991265\\xamarin.forms.maps.4.4.0.991265.nupkg.sha512"
+    "C:\\Users\\Nicolas\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Nicolas\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Nicolas\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Nicolas\\.nuget\\packages\\xam.plugin.media\\5.0.1\\xam.plugin.media.5.0.1.nupkg.sha512",
+    "C:\\Users\\Nicolas\\.nuget\\packages\\xamarin.essentials\\1.5.2\\xamarin.essentials.1.5.2.nupkg.sha512",
+    "C:\\Users\\Nicolas\\.nuget\\packages\\xamarin.forms\\4.4.0.991265\\xamarin.forms.4.4.0.991265.nupkg.sha512",
+    "C:\\Users\\Nicolas\\.nuget\\packages\\xamarin.forms.inputkit\\3.7.2\\xamarin.forms.inputkit.3.7.2.nupkg.sha512",
+    "C:\\Users\\Nicolas\\.nuget\\packages\\xamarin.forms.maps\\4.4.0.991265\\xamarin.forms.maps.4.4.0.991265.nupkg.sha512"
   ],
   "logs": []
 }

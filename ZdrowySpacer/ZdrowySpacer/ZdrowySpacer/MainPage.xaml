@@ -7,6 +7,10 @@
              xmlns:local="clr-namespace:ZdrowySpacer"
              x:Class="ZdrowySpacer.MainPage">
 
+    <ShellItem Route="LoginPage">
+        <ShellContent ContentTemplate="{DataTemplate local:LoginPage}"/>
+    </ShellItem>
+
     <FlyoutItem Title="MyTabAPP"
                 Shell.TabBarIsVisible="False"
                 FlyoutDisplayOptions="AsMultipleItems">
