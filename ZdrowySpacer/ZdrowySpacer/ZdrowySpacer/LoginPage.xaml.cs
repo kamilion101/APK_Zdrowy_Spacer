@@ -19,12 +19,14 @@ namespace ZdrowySpacer
 
         private async void Button_Clicked(object sender, EventArgs e)
         {
-
+          await  Shell.Current.GoToAsync($"//{nameof(Strona_glowna)}");
         }
 
         private async void TapGestureRecognizer_Tapped(object sender, EventArgs e)
-        {
 
+        {
+              await Shell.Current.GoToAsync($"///{nameof(Registration)}");
         }
     }
+
 }

@@ -1102,3 +1102,4 @@ C:\Users\Nicolas\source\repos\spcr\APK_Zdrowy_Spacer\ZdrowySpacer\ZdrowySpacer\Z
 C:\Users\Nicolas\source\repos\spcr\APK_Zdrowy_Spacer\ZdrowySpacer\ZdrowySpacer\ZdrowySpacer.Android\obj\Debug\90\res\mipmap-xxxhdpi\ic_launcher_adaptive_fore.png
 C:\Users\Nicolas\source\repos\spcr\APK_Zdrowy_Spacer\ZdrowySpacer\ZdrowySpacer\ZdrowySpacer.Android\obj\Debug\90\res\mipmap-xxxhdpi\ic_launcher.png
 C:\Users\Nicolas\source\repos\spcr\APK_Zdrowy_Spacer\ZdrowySpacer\ZdrowySpacer\ZdrowySpacer.Android\obj\Debug\90\res\mipmap-xxxhdpi\ic_launcher_adaptive_back.png
+C:\Users\Nicolas\source\repos\spcr\APK_Zdrowy_Spacer\ZdrowySpacer\ZdrowySpacer\ZdrowySpacer.Android\obj\Debug\90\ZdrowySpacer.Android.csproj.CopyComplete
