@@ -1201,24 +1201,27 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\kamil\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\Nicolas\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kamil\\source\\repos\\ZS_Testy\\APK_Zdrowy_Spacer\\ZdrowySpacer\\ZdrowySpacer\\ZdrowySpacer.iOS\\ZdrowySpacer.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\Nicolas\\source\\repos\\spcr\\APK_Zdrowy_Spacer\\ZdrowySpacer\\ZdrowySpacer\\ZdrowySpacer.iOS\\ZdrowySpacer.iOS.csproj",
       "projectName": "ZdrowySpacer.iOS",
-      "projectPath": "C:\\Users\\kamil\\source\\repos\\ZS_Testy\\APK_Zdrowy_Spacer\\ZdrowySpacer\\ZdrowySpacer\\ZdrowySpacer.iOS\\ZdrowySpacer.iOS.csproj",
-      "packagesPath": "C:\\Users\\kamil\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kamil\\source\\repos\\ZS_Testy\\APK_Zdrowy_Spacer\\ZdrowySpacer\\ZdrowySpacer\\ZdrowySpacer.iOS\\obj\\",
+      "projectPath": "C:\\Users\\Nicolas\\source\\repos\\spcr\\APK_Zdrowy_Spacer\\ZdrowySpacer\\ZdrowySpacer\\ZdrowySpacer.iOS\\ZdrowySpacer.iOS.csproj",
+      "packagesPath": "C:\\Users\\Nicolas\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Nicolas\\source\\repos\\spcr\\APK_Zdrowy_Spacer\\ZdrowySpacer\\ZdrowySpacer\\ZdrowySpacer.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\kamil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Nicolas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -1232,8 +1235,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\kamil\\source\\repos\\ZS_Testy\\APK_Zdrowy_Spacer\\ZdrowySpacer\\ZdrowySpacer\\ZdrowySpacer\\ZdrowySpacer.csproj": {
-              "projectPath": "C:\\Users\\kamil\\source\\repos\\ZS_Testy\\APK_Zdrowy_Spacer\\ZdrowySpacer\\ZdrowySpacer\\ZdrowySpacer\\ZdrowySpacer.csproj"
+            "C:\\Users\\Nicolas\\source\\repos\\spcr\\APK_Zdrowy_Spacer\\ZdrowySpacer\\ZdrowySpacer\\ZdrowySpacer\\ZdrowySpacer.csproj": {
+              "projectPath": "C:\\Users\\Nicolas\\source\\repos\\spcr\\APK_Zdrowy_Spacer\\ZdrowySpacer\\ZdrowySpacer\\ZdrowySpacer\\ZdrowySpacer.csproj"
             }
           }
         }
