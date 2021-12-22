@@ -11,9 +11,17 @@
             <RowDefinition Height="Auto" />
         </Grid.RowDefinitions>
 
-        <Image x:Name="imgCam" Grid.Row="0" Grid.Column="0"/>
+        <Image x:Name="imgCam" 
+               Grid.Row="0" 
+               Grid.Column="0"/>
 
-        <Button x:Name="btnCam" Text="Zdjęcie" Grid.Row="1" Grid.Column="0" Margin="2" Clicked="BtnCam_Clicked"
-                BackgroundColor="#00a4fc" TextColor="#FFF"/>
+        <Button x:Name="btnCam" 
+                Text="Zdjęcie" 
+                Grid.Row="1" 
+                Grid.Column="0" 
+                Margin="2" 
+                Clicked="BtnCam_Clicked"
+                BackgroundColor="#00a4fc" 
+                TextColor="#FFF"/>
     </Grid>
 </ContentPage>
