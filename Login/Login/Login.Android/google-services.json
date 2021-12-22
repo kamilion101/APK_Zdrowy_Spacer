@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "591175614104",
+    "project_id": "spacer-7196b",
+    "storage_bucket": "spacer-7196b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591175614104:android:d624864d2ce6578dc85aed",
+        "android_client_info": {
+          "package_name": "com.company.Spacer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591175614104-midkdimddtmo5tcqiif5h0o1v91l4jkt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUNPxuMEI2r8EdVgMypb_3a4EGJSyDYCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "591175614104-midkdimddtmo5tcqiif5h0o1v91l4jkt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
