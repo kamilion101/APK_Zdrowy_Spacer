@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             Shell.FlyoutBehavior="Disabled"
+             x:Class="Zdrowy.Registration">
+    <ContentPage.Content>
+        <StackLayout
+            VerticalOptions="Center"
+            Margin="20">
+
+            <Label
+                Text="Stwórz swoje konto"
+                HorizontalOptions="Center"
+                TextColor="#4682B4"
+                FontSize="30"
+                Margin="0, 20" />
+
+            <Entry
+                Placeholder="E-mail"
+                Keyboard="Email"
+                x:Name="EmailInput" />
+
+            <Entry
+                Placeholder="Hasło"
+                IsPassword="true"
+                x:Name="PasswordInput" />
+
+            <Button
+                Text="Zarejestruj się"
+                Clicked="SignUpClicked"
+                Margin="60, 40"
+                BackgroundColor="#4682B4"
+                TextColor="White" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

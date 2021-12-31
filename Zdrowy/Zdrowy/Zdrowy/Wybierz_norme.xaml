@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Zdrowy.Wybierz_norme">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Wybierz normę:" FontSize="Large" TextColor="Black" />
+            <RadioButton Content="5 KM" FontSize="Large" />
+            <RadioButton Content="10 KM" FontSize="Large" />
+            <RadioButton Content="15 KM" FontSize="Large" />
+            <RadioButton Content="20 KM" FontSize="Large" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
