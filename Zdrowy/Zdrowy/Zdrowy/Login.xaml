@@ -8,6 +8,15 @@
         VerticalOptions="Center"
         Margin="20">
 
+
+        <Button
+            Text="Bez logowania"
+            Clicked="SkipClicked"
+            Margin="60, 40"
+            BackgroundColor="#4682B4"
+            TextColor="White" />
+
+
         <Label
             Text="Zdrowy Spacer"
             HorizontalOptions="Center"

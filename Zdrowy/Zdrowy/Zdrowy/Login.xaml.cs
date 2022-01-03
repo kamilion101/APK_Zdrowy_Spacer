@@ -42,5 +42,15 @@ namespace Zdrowy
 
         }
 
+
+        async void SkipClicked(object sender, EventArgs e)
+        {
+
+
+            await Shell.Current.GoToAsync($"///{nameof(Strona_glowna)}");
+
+        }
+
+
     }
 }

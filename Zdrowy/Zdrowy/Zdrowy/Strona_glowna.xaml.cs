@@ -1,4 +1,6 @@
-﻿using System;
+﻿using Plugin.Geolocator;
+using Plugin.Geolocator.Abstractions;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -27,6 +29,16 @@ namespace Zdrowy
             {
                 Application.Current.MainPage = new MainPage();
             }
+        }
+
+        private async void Button_OnClicked(object sender, EventArgs e)
+        {
+
+            var locator = CrossGeolocator.Current;
+            locator.DesiredAccuracy = 50;
+            var position = await locator.GetPositionAsync(TimeSpan.FromSeconds(10000), null, true);
+            LongitudeLabel.Text = position.Longitude.ToString();
+            LatitudeLabel.Text = position.Latitude.ToString();
         }
 
     }

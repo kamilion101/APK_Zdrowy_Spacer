@@ -38,6 +38,13 @@ namespace Zdrowy
             {
                 await DisplayAlert("ERROR", "Something went wrong, please try again", "Ok");
             }
+        }
+
+        async void WsteczClicked(object sender, EventArgs e)
+        {
+
+
+            await Shell.Current.GoToAsync($"///{nameof(Login)}");
 
         }
 

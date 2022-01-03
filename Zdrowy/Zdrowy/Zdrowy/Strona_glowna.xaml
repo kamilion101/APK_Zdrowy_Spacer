@@ -10,11 +10,12 @@
 
 
     <ContentPage.Content>
-        <StackLayout>
-            <Label Text="Strona główna!"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
-
+        <StackLayout Orientation="Vertical">
+            <Button Text="Pobranie pozycji GPS" Clicked="Button_OnClicked" />
+            <Label Text="Szerokość geograficzna" TextColor="Gray" FontSize="15"/>
+            <Label x:Name="LatitudeLabel" FontSize="20"/>
+            <Label Text="Długość geograficzna" TextColor="Gray" FontSize = "15" />
+            <Label x:Name="LongitudeLabel" FontSize="20"/>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

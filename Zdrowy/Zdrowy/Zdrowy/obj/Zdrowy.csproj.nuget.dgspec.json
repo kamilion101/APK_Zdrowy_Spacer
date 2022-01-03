@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kamil\\source\\repos\\Zdrowy\\Zdrowy\\Zdrowy\\Zdrowy.csproj": {}
+    "C:\\Users\\kamil\\source\\repos\\ZS_GitHub\\APK_Zdrowy_Spacer\\Zdrowy\\Zdrowy\\Zdrowy\\Zdrowy.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kamil\\source\\repos\\Zdrowy\\Zdrowy\\Zdrowy\\Zdrowy.csproj": {
+    "C:\\Users\\kamil\\source\\repos\\ZS_GitHub\\APK_Zdrowy_Spacer\\Zdrowy\\Zdrowy\\Zdrowy\\Zdrowy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kamil\\source\\repos\\Zdrowy\\Zdrowy\\Zdrowy\\Zdrowy.csproj",
+        "projectUniqueName": "C:\\Users\\kamil\\source\\repos\\ZS_GitHub\\APK_Zdrowy_Spacer\\Zdrowy\\Zdrowy\\Zdrowy\\Zdrowy.csproj",
         "projectName": "Zdrowy",
-        "projectPath": "C:\\Users\\kamil\\source\\repos\\Zdrowy\\Zdrowy\\Zdrowy\\Zdrowy.csproj",
+        "projectPath": "C:\\Users\\kamil\\source\\repos\\ZS_GitHub\\APK_Zdrowy_Spacer\\Zdrowy\\Zdrowy\\Zdrowy\\Zdrowy.csproj",
         "packagesPath": "C:\\Users\\kamil\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kamil\\source\\repos\\Zdrowy\\Zdrowy\\Zdrowy\\obj\\",
+        "outputPath": "C:\\Users\\kamil\\source\\repos\\ZS_GitHub\\APK_Zdrowy_Spacer\\Zdrowy\\Zdrowy\\Zdrowy\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
@@ -49,6 +49,10 @@
               "target": "Package",
               "version": "[2.0.3, )",
               "autoReferenced": true
+            },
+            "Xam.Plugin.Geolocator": {
+              "target": "Package",
+              "version": "[4.5.0.6, )"
             },
             "Xam.Plugin.Media": {
               "target": "Package",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kamil\\source\\repos\\Zdrowy\\Zdrowy\\Zdrowy.Android\\Zdrowy.Android.csproj": {}
+    "C:\\Users\\kamil\\source\\repos\\ZS_GitHub\\APK_Zdrowy_Spacer\\Zdrowy\\Zdrowy\\Zdrowy.Android\\Zdrowy.Android.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kamil\\source\\repos\\Zdrowy\\Zdrowy\\Zdrowy.Android\\Zdrowy.Android.csproj": {
+    "C:\\Users\\kamil\\source\\repos\\ZS_GitHub\\APK_Zdrowy_Spacer\\Zdrowy\\Zdrowy\\Zdrowy.Android\\Zdrowy.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kamil\\source\\repos\\Zdrowy\\Zdrowy\\Zdrowy.Android\\Zdrowy.Android.csproj",
+        "projectUniqueName": "C:\\Users\\kamil\\source\\repos\\ZS_GitHub\\APK_Zdrowy_Spacer\\Zdrowy\\Zdrowy\\Zdrowy.Android\\Zdrowy.Android.csproj",
         "projectName": "Zdrowy.Android",
-        "projectPath": "C:\\Users\\kamil\\source\\repos\\Zdrowy\\Zdrowy\\Zdrowy.Android\\Zdrowy.Android.csproj",
+        "projectPath": "C:\\Users\\kamil\\source\\repos\\ZS_GitHub\\APK_Zdrowy_Spacer\\Zdrowy\\Zdrowy\\Zdrowy.Android\\Zdrowy.Android.csproj",
         "packagesPath": "C:\\Users\\kamil\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kamil\\source\\repos\\Zdrowy\\Zdrowy\\Zdrowy.Android\\obj\\",
+        "outputPath": "C:\\Users\\kamil\\source\\repos\\ZS_GitHub\\APK_Zdrowy_Spacer\\Zdrowy\\Zdrowy\\Zdrowy.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -32,8 +32,8 @@
         "frameworks": {
           "monoandroid11.0": {
             "projectReferences": {
-              "C:\\Users\\kamil\\source\\repos\\Zdrowy\\Zdrowy\\Zdrowy\\Zdrowy.csproj": {
-                "projectPath": "C:\\Users\\kamil\\source\\repos\\Zdrowy\\Zdrowy\\Zdrowy\\Zdrowy.csproj"
+              "C:\\Users\\kamil\\source\\repos\\ZS_GitHub\\APK_Zdrowy_Spacer\\Zdrowy\\Zdrowy\\Zdrowy\\Zdrowy.csproj": {
+                "projectPath": "C:\\Users\\kamil\\source\\repos\\ZS_GitHub\\APK_Zdrowy_Spacer\\Zdrowy\\Zdrowy\\Zdrowy\\Zdrowy.csproj"
               }
             }
           }
@@ -45,6 +45,10 @@
             "Plugin.CurrentActivity": {
               "target": "Package",
               "version": "[2.1.0.4, )"
+            },
+            "Xam.Plugin.Geolocator": {
+              "target": "Package",
+              "version": "[4.5.0.6, )"
             },
             "Xam.Plugin.Media": {
               "target": "Package",
@@ -78,14 +82,14 @@
         }
       }
     },
-    "C:\\Users\\kamil\\source\\repos\\Zdrowy\\Zdrowy\\Zdrowy\\Zdrowy.csproj": {
+    "C:\\Users\\kamil\\source\\repos\\ZS_GitHub\\APK_Zdrowy_Spacer\\Zdrowy\\Zdrowy\\Zdrowy\\Zdrowy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kamil\\source\\repos\\Zdrowy\\Zdrowy\\Zdrowy\\Zdrowy.csproj",
+        "projectUniqueName": "C:\\Users\\kamil\\source\\repos\\ZS_GitHub\\APK_Zdrowy_Spacer\\Zdrowy\\Zdrowy\\Zdrowy\\Zdrowy.csproj",
         "projectName": "Zdrowy",
-        "projectPath": "C:\\Users\\kamil\\source\\repos\\Zdrowy\\Zdrowy\\Zdrowy\\Zdrowy.csproj",
+        "projectPath": "C:\\Users\\kamil\\source\\repos\\ZS_GitHub\\APK_Zdrowy_Spacer\\Zdrowy\\Zdrowy\\Zdrowy\\Zdrowy.csproj",
         "packagesPath": "C:\\Users\\kamil\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kamil\\source\\repos\\Zdrowy\\Zdrowy\\Zdrowy\\obj\\",
+        "outputPath": "C:\\Users\\kamil\\source\\repos\\ZS_GitHub\\APK_Zdrowy_Spacer\\Zdrowy\\Zdrowy\\Zdrowy\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
@@ -123,6 +127,10 @@
               "target": "Package",
               "version": "[2.0.3, )",
               "autoReferenced": true
+            },
+            "Xam.Plugin.Geolocator": {
+              "target": "Package",
+              "version": "[4.5.0.6, )"
             },
             "Xam.Plugin.Media": {
               "target": "Package",
