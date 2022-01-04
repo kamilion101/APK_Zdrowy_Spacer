@@ -11,11 +11,30 @@
 
     <ContentPage.Content>
         <StackLayout Orientation="Vertical">
-            <Button Text="Pobranie pozycji GPS" Clicked="Button_OnClicked" />
-            <Label Text="Szerokość geograficzna" TextColor="Gray" FontSize="15"/>
-            <Label x:Name="LatitudeLabel" FontSize="20"/>
-            <Label Text="Długość geograficzna" TextColor="Gray" FontSize = "15" />
-            <Label x:Name="LongitudeLabel" FontSize="20"/>
+            <Button Text="Start" Clicked="StartClicked" />
+            <Label Text="Szerokość geograficzna" TextColor="Gray" FontSize="15" IsVisible="false" />
+            <Label x:Name="LatitudeLabel" FontSize="20" IsVisible="false" />
+            <Label Text="Długość geograficzna" TextColor="Gray" FontSize = "15" IsVisible="false" />
+            <Label x:Name="LongitudeLabel" FontSize="20" IsVisible="false" />
+            <Label x:Name="nazwa" FontSize="20" />
+           
+            <Button Text="Stop" Clicked="StopClicked" />
+            <Label Text="Szerokość geograficzna" TextColor="Gray" FontSize="15" IsVisible="false" />
+            <Label x:Name="szer" FontSize="20" IsVisible="false" /> 
+            <Label Text="Długość geograficzna" TextColor="Gray" FontSize = "15" IsVisible="false" />
+            <Label x:Name="dlug" FontSize="20" IsVisible="false" />
+            <Label x:Name="nazwa2" FontSize="20" />
+
+            <Button Text="Zobacz wynik" Clicked="WynikClicked" />
+            <Label Text="Dystans: " TextColor="Gray" FontSize="15"/>
+            <Label x:Name="Dystans" FontSize="20" />
+            
+            <Label Text="Liczba kroków: " TextColor="Gray" FontSize="15"/>
+            <Label x:Name="Kroki" FontSize="20" />
+            
+            <Label Text="Liczba spalonych kcal: " TextColor="Gray" FontSize="15"/>
+            <Label x:Name="Kcal" FontSize="20" />
+            
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

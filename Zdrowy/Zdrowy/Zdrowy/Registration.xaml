@@ -5,16 +5,9 @@
              x:Class="Zdrowy.Registration">
     <ContentPage.Content>
         <StackLayout
-            VerticalOptions="Center"
+            
             Margin="20">
 
-            <Button
-                Text="Wstecz"
-                Clicked="WsteczClicked"
-                Margin="60, 40"
-                BackgroundColor="#4682B4"
-                TextColor="White" />
-            
             <Label
                 Text="Stwórz swoje konto"
                 HorizontalOptions="Center"
@@ -38,6 +31,14 @@
                 Margin="60, 40"
                 BackgroundColor="#4682B4"
                 TextColor="White" />
+
+            <Button
+                Text="Wstecz"
+                Clicked="WsteczClicked"
+                Margin="60, 20"
+                BackgroundColor="#4682B4"
+                TextColor="White" />
+
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

@@ -5,18 +5,10 @@
              x:Class="Zdrowy.Login">
 
     <StackLayout
-        VerticalOptions="Center"
+        
         Margin="20">
 
-
-        <Button
-            Text="Bez logowania"
-            Clicked="SkipClicked"
-            Margin="60, 40"
-            BackgroundColor="#4682B4"
-            TextColor="White" />
-
-
+        
         <Label
             Text="Zdrowy Spacer"
             HorizontalOptions="Center"
@@ -37,7 +29,7 @@
         <Button
             Text="Zaloguj się"
             Clicked="LoginClicked"
-            Margin="60, 40"
+            Margin="60, 20"
             BackgroundColor="#4682B4"
             TextColor="White" />
 
@@ -47,6 +39,14 @@
             HorizontalOptions="Center"
             BackgroundColor="Transparent"
             Clicked="SignUpClicked" />
+
+        <Button
+            Text="Bez logowania"
+            Clicked="SkipClicked"
+            Margin="60, 20"
+            BackgroundColor="#4682B4"
+            TextColor="White" />
+
     </StackLayout>
     
 </ContentPage>
