@@ -14,7 +14,8 @@
           "Xam.Plugin.Media": "5.0.1",
           "Xamarin.Essentials": "1.7.0",
           "Xamarin.Forms": "5.0.0.2291",
-          "Xamarin.Forms.Maps": "5.0.0.2291"
+          "Xamarin.Forms.Maps": "5.0.0.2291",
+          "Mono.Android": "0.0.0.0"
         },
         "runtime": {
           "Zdrowy.dll": {}
@@ -90,6 +91,14 @@
             "fileVersion": "5.0.0.850"
           }
         }
+      },
+      "Mono.Android/0.0.0.0": {
+        "runtime": {
+          "Mono.Android.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "0.0.0.0"
+          }
+        }
       }
     }
   },
@@ -154,6 +163,11 @@
       "sha512": "sha512-ZgV54f3Jd1By7D79wbyWeOrcVE0eIvBGty+8HjvX1BTUEX7id/bxBXBBBFqfjLVgsdd7dpzlGvqC3nmVfCkfrQ==",
       "path": "xamarin.forms.maps/5.0.0.2291",
       "hashPath": "xamarin.forms.maps.5.0.0.2291.nupkg.sha512"
+    },
+    "Mono.Android/0.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }

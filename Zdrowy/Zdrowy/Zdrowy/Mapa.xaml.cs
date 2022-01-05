@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Android.Locations;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -7,6 +8,7 @@ using Xamarin.Essentials;
 using Xamarin.Forms;
 using Xamarin.Forms.Maps;
 using Xamarin.Forms.Xaml;
+using Map = Xamarin.Essentials.Map;
 
 namespace Zdrowy
 {
@@ -49,7 +51,15 @@ namespace Zdrowy
             {
                 // Unable to get location
             }
+
+           
         }
 
+        
+
+        async void Button_Clicked_1(object sender, EventArgs e)
+        {
+            await Map.OpenAsync(47.6529, -122.1422);
+        }
     }
 }

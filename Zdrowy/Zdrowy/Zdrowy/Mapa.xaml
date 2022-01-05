@@ -3,7 +3,34 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
              xmlns:mymap="clr-namespace:Xamarin.Forms.Maps;assembly=Xamarin.Forms.Maps"
              x:Class="Zdrowy.Mapa">
-    
-    <mymap:Map IsShowingUser="True" x:Name="myMap"  />
-    
+
+    <StackLayout VerticalOptions="Center" HorizontalOptions="Center">
+
+
+
+        <Frame VerticalOptions="Fill" HorizontalOptions="Fill">
+            <mymap:Map IsShowingUser="True" x:Name="myMap" 
+                    VerticalOptions="CenterAndExpand"
+                       HorizontalOptions="CenterAndExpand"
+                       
+                   
+                   Margin="150, 200"
+                   />
+    </Frame>
+
+        <Button
+            Text="Wybierz miejsce docelowe"
+            Clicked="Button_Clicked_1"
+            HorizontalOptions="CenterAndExpand"
+            VerticalOptions="End"
+            Margin="100, 10"
+            BackgroundColor="Green"
+            TextColor="Wheat"
+            />
+
+
+    </StackLayout>
+
+
 </ContentPage>
+    
