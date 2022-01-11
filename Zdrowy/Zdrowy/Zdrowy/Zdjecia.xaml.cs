@@ -43,5 +43,22 @@ namespace Zdrowy
             }
         }
 
+        private async void BtnPickPhoto_Clicked(object sender, EventArgs e)
+        {
+            var Cross_Media = CrossMedia.Current;
+
+            if (Cross_Media.IsPickPhotoSupported == true)
+            {
+                var FileImage = await Cross_Media.PickPhotoAsync();
+                if (FileImage == null) return;
+                await DisplayAlert("Test", "The Photo Is Get", "Done");
+                imgCam.Source = ImageSource.FromFile(FileImage.Path);
+            }
+            else
+            {
+                await DisplayAlert("Error!", "Is Not Supported", "Done");
+            }
+        }
+
     }
 }

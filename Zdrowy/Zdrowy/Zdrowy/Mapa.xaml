@@ -4,19 +4,13 @@
              xmlns:mymap="clr-namespace:Xamarin.Forms.Maps;assembly=Xamarin.Forms.Maps"
              x:Class="Zdrowy.Mapa">
 
-    <StackLayout VerticalOptions="Center" HorizontalOptions="Center">
+    <StackLayout>
 
-
-
-        <Frame VerticalOptions="Fill" HorizontalOptions="Fill">
-            <mymap:Map IsShowingUser="True" x:Name="myMap" 
-                    VerticalOptions="CenterAndExpand"
-                       HorizontalOptions="CenterAndExpand"
-                       
-                   
-                   Margin="150, 200"
-                   />
-    </Frame>
+        <mymap:Map IsShowingUser="True" x:Name="myMap" 
+                   VerticalOptions="StartAndExpand"
+                   HorizontalOptions="StartAndExpand"
+                   HeightRequest="500"           
+                   WidthRequest="500" />
 
         <Button
             Text="Wybierz miejsce docelowe"
@@ -26,8 +20,7 @@
             Margin="100, 10"
             BackgroundColor="Green"
             TextColor="Wheat"
-            />
-
+            IsVisible="true" />
 
     </StackLayout>
 

@@ -4,14 +4,18 @@
              x:Class="Zdrowy.Zdjecia">
 
     <Grid>
+
         <Grid.RowDefinitions>
             <RowDefinition Height="*" />
             <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+
         </Grid.RowDefinitions>
 
-        <Image x:Name="imgCam" 
+        <Image x:Name="imgCam"
                Grid.Row="0" 
-               Grid.Column="0"/>
+               Grid.Column="0"
+               Margin="2"/>
 
         <Button x:Name="btnCam" 
                 Text="Zrób zdjęcie" 
@@ -21,6 +25,17 @@
                 Clicked="BtnCam_Clicked"
                 BackgroundColor="#00a4fc" 
                 TextColor="#FFF"/>
+
+
+        <Button x:Name="btnPickPhoto" 
+                Text="Wybierz zdjęcie"
+                Grid.Row="2" 
+                Grid.Column="0"    
+                Margin="2"
+                Clicked="BtnPickPhoto_Clicked"
+                BackgroundColor="#00a4fc" 
+                TextColor="#FFF"/>
+
     </Grid>
 
 </ContentPage>
