@@ -59,7 +59,7 @@ namespace Zdrowy
 
         async void Button_Clicked_1(object sender, EventArgs e)
         {
-            await Map.OpenAsync(47.6529, -122.1422);
+            await Map.OpenAsync(49.6091,20.7041);
         }
     }
 }

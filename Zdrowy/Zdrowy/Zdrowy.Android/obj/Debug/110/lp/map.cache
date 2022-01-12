@@ -1,6 +1,7 @@
 FormsViewGroup.dll
 Plugin.CurrentActivity.dll
 Plugin.Geolocator.dll
+Plugin.LocalNotification.dll
 Plugin.Media.dll
 Plugin.Permissions.dll
 Xamarin.AndroidX.Activity.dll

@@ -153,3 +153,4 @@ Xamarin.GooglePlayServices.Measurement.Sdk.dll
 Xamarin.GooglePlayServices.SafetyNet.dll
 Xamarin.GooglePlayServices.Stats.dll
 Xamarin.GooglePlayServices.Tasks.dll
+Plugin.LocalNotification.dll

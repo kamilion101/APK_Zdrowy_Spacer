@@ -5,10 +5,11 @@
     <ContentPage.Content>
         <StackLayout>
             <Label Text="Wybierz normę:" FontSize="Large" TextColor="Black" />
-            <RadioButton Content="5 KM" FontSize="Large" />
-            <RadioButton Content="10 KM" FontSize="Large" />
-            <RadioButton Content="15 KM" FontSize="Large" />
-            <RadioButton Content="20 KM" FontSize="Large" />
+            <RadioButton Content="5 KM" FontSize="Large" CheckedChanged="norma"  />
+            <RadioButton Content="10 KM" FontSize="Large" CheckedChanged="norma" />
+            <RadioButton Content="15 KM" FontSize="Large" CheckedChanged="norma" />
+            <RadioButton Content="20 KM" FontSize="Large" CheckedChanged="norma" />
+            <Label x:Name="lab" />
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>
