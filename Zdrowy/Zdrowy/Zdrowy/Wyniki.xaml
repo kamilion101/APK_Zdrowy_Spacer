@@ -3,10 +3,11 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Zdrowy.Wyniki">
     <ContentPage.Content>
-        <StackLayout>
+        <StackLayout BackgroundColor="{AppThemeBinding Light=White, Dark=#1A2129}">
             <Label Text="WYNIKI"
                 VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
+                HorizontalOptions="CenterAndExpand" 
+                   TextColor="{AppThemeBinding Light=#4191d8, Dark=White}"/>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

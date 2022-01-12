@@ -4,7 +4,7 @@
              xmlns:mymap="clr-namespace:Xamarin.Forms.Maps;assembly=Xamarin.Forms.Maps"
              x:Class="Zdrowy.Mapa">
 
-    <StackLayout>
+    <StackLayout BackgroundColor="{AppThemeBinding Light=White, Dark=#1A2129}">
 
         <mymap:Map IsShowingUser="True" x:Name="myMap" 
                    VerticalOptions="StartAndExpand"
@@ -18,8 +18,8 @@
             HorizontalOptions="CenterAndExpand"
             VerticalOptions="End"
             Margin="100, 10"
-            BackgroundColor="Green"
-            TextColor="Wheat"
+            BackgroundColor="{AppThemeBinding Light=Green, Dark=#704241}"
+            TextColor="{AppThemeBinding Light=White, Dark=White}"
             IsVisible="true" />
 
     </StackLayout>

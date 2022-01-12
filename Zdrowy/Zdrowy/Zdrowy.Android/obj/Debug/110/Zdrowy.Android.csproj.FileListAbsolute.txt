@@ -4176,3 +4176,4 @@ C:\Users\Nicolas\source\repos\jjj\APK_Zdrowy_Spacer\Zdrowy\Zdrowy\Zdrowy.Android
 C:\Users\Nicolas\source\repos\jjj\APK_Zdrowy_Spacer\Zdrowy\Zdrowy\Zdrowy.Android\obj\Debug\110\androidx\proguard\b895fa51-c74a-4480-b293-3072490e9566.cfg
 C:\Users\Nicolas\source\repos\jjj\APK_Zdrowy_Spacer\Zdrowy\Zdrowy\Zdrowy.Android\obj\Debug\110\androidx\proguard\cdcd3e7e-11cc-4b64-91a6-64b51943a89e.txt
 C:\Users\Nicolas\source\repos\jjj\APK_Zdrowy_Spacer\Zdrowy\Zdrowy\Zdrowy.Android\obj\Debug\110\androidx\proguard\f8cb3972-6da2-427d-9e53-421b2e6268fc.txt
+C:\Users\Nicolas\source\repos\jjj\APK_Zdrowy_Spacer\Zdrowy\Zdrowy\Zdrowy.Android\obj\Debug\110\res\drawable\beznazwy.jpg

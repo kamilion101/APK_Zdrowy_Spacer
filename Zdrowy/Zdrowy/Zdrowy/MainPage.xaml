@@ -2,7 +2,8 @@
 <Shell xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:local="clr-namespace:Zdrowy"
-             x:Class="Zdrowy.MainPage">
+             x:Class="Zdrowy.MainPage"
+       BackgroundColor="{AppThemeBinding Light=#4191d8, Dark=#1A2129}">
 
     <ShellItem Route="Login">
         <ShellContent ContentTemplate="{DataTemplate local:Login}"/>

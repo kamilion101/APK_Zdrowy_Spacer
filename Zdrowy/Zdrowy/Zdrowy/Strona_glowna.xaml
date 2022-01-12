@@ -10,30 +10,32 @@
 
 
     <ContentPage.Content>
-        <StackLayout Orientation="Vertical">
-            <Button Text="Start" Clicked="StartClicked" />
-            <Label Text="Szerokość geograficzna" TextColor="Gray" FontSize="15" IsVisible="false" />
+        <StackLayout Orientation="Vertical" BackgroundColor="{AppThemeBinding Light=White, Dark=#1A2129}" >
+            <Button Text="Start" Clicked="StartClicked" BackgroundColor="{AppThemeBinding Light=#4191d8, Dark=#704241}"/>
+            <Label Text="Szerokość geograficzna" TextColor="{AppThemeBinding Light=#808080, Dark=White}" FontSize="15" IsVisible="false" />
             <Label x:Name="LatitudeLabel" FontSize="20" IsVisible="false" />
-            <Label Text="Długość geograficzna" TextColor="Gray" FontSize = "15" IsVisible="false" />
+            <Label Text="Długość geograficzna" TextColor="{AppThemeBinding Light=#808080, Dark=White}" FontSize = "15" IsVisible="false" />
             <Label x:Name="LongitudeLabel" FontSize="20" IsVisible="false" />
             <Label x:Name="nazwa" FontSize="20" />
-           
-            <Button Text="Stop" Clicked="StopClicked" />
-            <Label Text="Szerokość geograficzna" TextColor="Gray" FontSize="15" IsVisible="false" />
-            <Label x:Name="szer" FontSize="20" IsVisible="false" /> 
-            <Label Text="Długość geograficzna" TextColor="Gray" FontSize = "15" IsVisible="false" />
+
+            <Button Text="Stop" Clicked="StopClicked" BackgroundColor="{AppThemeBinding Light=#4191d8, Dark=#704241}"/>
+            <Label Text="Szerokość geograficzna" TextColor="{AppThemeBinding Light=#808080, Dark=White}" FontSize="15" IsVisible="false" />
+            <Label x:Name="szer" FontSize="20" IsVisible="false" />
+            <Label Text="Długość geograficzna" TextColor="{AppThemeBinding Light=#808080, Dark=White}" FontSize = "15" IsVisible="false" />
             <Label x:Name="dlug" FontSize="20" IsVisible="false" />
             <Label x:Name="nazwa2" FontSize="20" />
 
-            <Button Text="Zobacz wynik" Clicked="WynikClicked" />
-            <Label Text="Dystans: " TextColor="Gray" FontSize="15"/>
-            <Label x:Name="Dystans" FontSize="20" />
-            
-            <Label Text="Liczba kroków: " TextColor="Gray" FontSize="15"/>
-            <Label x:Name="Kroki" FontSize="20" />
-            
-            <Label Text="Liczba spalonych kcal: " TextColor="Gray" FontSize="15"/>
+            <Button Text="Zobacz wynik" Clicked="WynikClicked" BackgroundColor="{AppThemeBinding Light=#4191d8, Dark=#704241}"/>
+            <Label Text="Dystans: " TextColor="{AppThemeBinding Light=#808080, Dark=White}" FontSize="15"/>
+            <Label x:Name="Dystans" FontSize="20"  TextColor="{AppThemeBinding Light=#808080, Dark=White}"/>
+
+            <Label Text="Liczba kroków: " TextColor="{AppThemeBinding Light=#808080, Dark=White}" FontSize="15"/>
+            <Label x:Name="Kroki" FontSize="20" TextColor="{AppThemeBinding Light=#808080, Dark=White}"/>
+
+            <Label Text="Liczba spalonych kcal: " TextColor="{AppThemeBinding Light=#808080, Dark=White}" FontSize="15" />
             <Label x:Name="Kcal" FontSize="20" />
+            
+            
             
         </StackLayout>
     </ContentPage.Content>

@@ -3,13 +3,13 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Zdrowy.Wybierz_norme">
     <ContentPage.Content>
-        <StackLayout>
-            <Label Text="Wybierz normę:" FontSize="Large" TextColor="Black" />
+        <StackLayout BackgroundColor="{AppThemeBinding Light=White, Dark=#1A2129}">
+            <Label Text="Wybierz normę:" FontSize="Large" TextColor="{AppThemeBinding Light=#808080, Dark=White}" />
             <RadioButton Content="5 KM" FontSize="Large" CheckedChanged="norma"  />
             <RadioButton Content="10 KM" FontSize="Large" CheckedChanged="norma" />
             <RadioButton Content="15 KM" FontSize="Large" CheckedChanged="norma" />
             <RadioButton Content="20 KM" FontSize="Large" CheckedChanged="norma" />
-            <Label x:Name="lab" />
+            <Label x:Name="lab" TextColor="{AppThemeBinding Light=#808080, Dark=White}"/>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

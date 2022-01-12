@@ -3,7 +3,7 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Zdrowy.Zdjecia">
 
-    <Grid>
+    <Grid BackgroundColor="{AppThemeBinding Light=White, Dark=#1A2129}">
 
         <Grid.RowDefinitions>
             <RowDefinition Height="*" />
@@ -23,7 +23,7 @@
                 Grid.Column="0" 
                 Margin="2" 
                 Clicked="BtnCam_Clicked"
-                BackgroundColor="#00a4fc" 
+                BackgroundColor="{AppThemeBinding Light=#4191d8, Dark=#704241}" 
                 TextColor="#FFF"/>
 
 
@@ -33,7 +33,7 @@
                 Grid.Column="0"    
                 Margin="2"
                 Clicked="BtnPickPhoto_Clicked"
-                BackgroundColor="#00a4fc" 
+                BackgroundColor="{AppThemeBinding Light=#4191d8, Dark=#704241}" 
                 TextColor="#FFF"/>
 
     </Grid>
