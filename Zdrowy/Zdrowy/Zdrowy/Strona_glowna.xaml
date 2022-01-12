@@ -26,7 +26,7 @@
             <Label x:Name="nazwa2" FontSize="20" />
 
             <Button Text="Zobacz wynik" Clicked="WynikClicked" BackgroundColor="{AppThemeBinding Light=#4191d8, Dark=#704241}"/>
-            <Label Text="Dystans: " TextColor="{AppThemeBinding Light=#808080, Dark=White}" FontSize="15"/>
+            <Label Text="Dystans w KM: " TextColor="{AppThemeBinding Light=#808080, Dark=White}" FontSize="15"/>
             <Label x:Name="Dystans" FontSize="20"  TextColor="{AppThemeBinding Light=#808080, Dark=White}"/>
 
             <Label Text="Liczba kroków: " TextColor="{AppThemeBinding Light=#808080, Dark=White}" FontSize="15"/>

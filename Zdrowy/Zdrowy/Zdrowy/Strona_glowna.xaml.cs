@@ -81,13 +81,13 @@ namespace Zdrowy
             Position position2 = approximateLocations2.FirstOrDefault();
             string coordinates2 = $"{position2.Latitude}, {position2.Longitude}";
 
-            Location boston = new Location(position.Latitude, position.Longitude);
-            Location sanFrancisco = new Location(position2.Latitude, position2.Longitude);
-            double Kilometers = Location.CalculateDistance(boston, sanFrancisco, DistanceUnits.Kilometers);
-            Dystans.Text = Kilometers.ToString();
+            Location poczatek = new Location(position.Latitude, position.Longitude);
+            Location koniec = new Location(position2.Latitude, position2.Longitude);
+            double Kilometers = Location.CalculateDistance(poczatek, koniec, DistanceUnits.Kilometers);
 
-            Kroki.Text = (Kilometers / 0.0007).ToString();
-            Kcal.Text = (Kilometers * 100).ToString();
+            Dystans.Text = Kilometers.ToString("#.###");
+            Kroki.Text = (Kilometers / 0.0007).ToString("#");
+            Kcal.Text = (Kilometers * 100).ToString("#");
 
         }
 

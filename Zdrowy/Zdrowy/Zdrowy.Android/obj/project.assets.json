@@ -6123,27 +6123,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Nicolas\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Users\\kamil\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nicolas\\source\\repos\\jjj\\APK_Zdrowy_Spacer\\Zdrowy\\Zdrowy\\Zdrowy.Android\\Zdrowy.Android.csproj",
+      "projectUniqueName": "C:\\Users\\kamil\\source\\repos\\ZS_GitHub_Z\\APK_Zdrowy_Spacer\\Zdrowy\\Zdrowy\\Zdrowy.Android\\Zdrowy.Android.csproj",
       "projectName": "Zdrowy.Android",
-      "projectPath": "C:\\Users\\Nicolas\\source\\repos\\jjj\\APK_Zdrowy_Spacer\\Zdrowy\\Zdrowy\\Zdrowy.Android\\Zdrowy.Android.csproj",
-      "packagesPath": "C:\\Users\\Nicolas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nicolas\\source\\repos\\jjj\\APK_Zdrowy_Spacer\\Zdrowy\\Zdrowy\\Zdrowy.Android\\obj\\",
+      "projectPath": "C:\\Users\\kamil\\source\\repos\\ZS_GitHub_Z\\APK_Zdrowy_Spacer\\Zdrowy\\Zdrowy\\Zdrowy.Android\\Zdrowy.Android.csproj",
+      "packagesPath": "C:\\Users\\kamil\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\kamil\\source\\repos\\ZS_GitHub_Z\\APK_Zdrowy_Spacer\\Zdrowy\\Zdrowy\\Zdrowy.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\Nicolas\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\kamil\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -6157,8 +6154,8 @@
       "frameworks": {
         "monoandroid11.0": {
           "projectReferences": {
-            "C:\\Users\\Nicolas\\source\\repos\\jjj\\APK_Zdrowy_Spacer\\Zdrowy\\Zdrowy\\Zdrowy\\Zdrowy.csproj": {
-              "projectPath": "C:\\Users\\Nicolas\\source\\repos\\jjj\\APK_Zdrowy_Spacer\\Zdrowy\\Zdrowy\\Zdrowy\\Zdrowy.csproj"
+            "C:\\Users\\kamil\\source\\repos\\ZS_GitHub_Z\\APK_Zdrowy_Spacer\\Zdrowy\\Zdrowy\\Zdrowy\\Zdrowy.csproj": {
+              "projectPath": "C:\\Users\\kamil\\source\\repos\\ZS_GitHub_Z\\APK_Zdrowy_Spacer\\Zdrowy\\Zdrowy\\Zdrowy\\Zdrowy.csproj"
             }
           }
         }
